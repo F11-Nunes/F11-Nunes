@@ -1,62 +1,33 @@
-# 👨‍💻 Bem-vindo ao meu GitHub!
+# 👋 Olá! Bem-vindo(a) ao meu GitHub
 
-Olá! Me chamo **Luis Filipe de Lima Nunes**, sou estudante de **Tecnologia da Informação** no **SENAI**, com 1 ano de experiência prática em programação e desenvolvimento.
+## 🧠 Sobre mim
 
-Este repositório é o meu portfólio em construção — onde compartilho projetos, estudos e experimentos que desenvolvo ao longo da minha jornada como futuro profissional de TI.
+Sou uma pessoa desenvolvedora em formação, apaixonada por tecnologia e sempre em busca de aprender mais. Comecei minha jornada com Python e, desde então, venho expandindo meus conhecimentos em outras linguagens e áreas da programação.
 
----
+### 💻 Tecnologias que já aprendi:
+- **Python** – minha primeira linguagem, onde comecei a entender lógica de programação e automação
+- **HTML** – estrutura para criar páginas web
+- **CSS** – estilização para dar vida às páginas
 
-## 🚀 Tecnologias que estou aprendendo e utilizando
-
-- 🐍 **Python** — Lógica de programação, automações e pequenos scripts.
-- 🎨 **CSS** — Estilização de páginas, responsividade e design moderno.
-- 🧱 **HTML** — Estruturação de páginas web com foco em boas práticas e semântica.
-
----
-
-## 📂 Meus projetos
-
-Por aqui você encontrará repositórios com:
-
-- ✅ Exercícios e desafios práticos do curso no SENAI
-- 💡 Projetos pessoais para treinar e aplicar o que aprendo
-- 🛠️ Aplicações web simples usando HTML e CSS
-- 🤖 Scripts úteis desenvolvidos em Python
+### 📚 Atualmente estudando:
+- **Java** – aprendendo os conceitos de orientação a objetos e desenvolvimento de aplicações
 
 ---
 
-## 🌱 Em constante evolução
+## 🚀 Repositórios
 
-Sou apaixonado por aprender e sempre busco evoluir como desenvolvedor. No momento, estou focado em:
-
-- Consolidar fundamentos de programação com Python
-- Criar layouts profissionais com HTML e CSS
-- Aprender controle de versão com Git e GitHub
+Aqui você vai encontrar meus projetos, estudos e experimentos. Gosto de usar o GitHub como um portfólio para acompanhar minha evolução e compartilhar o que venho aprendendo.
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📈 Em constante aprendizado
 
-- 📧 E-mail: luis.f.nunes6@aluno.senai.br
-
-Sinta-se à vontade para explorar meus projetos, dar sugestões ou entrar em contato para conversarmos sobre tecnologia e aprendizado!
+Acredito que a prática leva à melhoria. Estou sempre testando novas ideias, refatorando códigos antigos e explorando novas tecnologias para me desenvolver como programador(a).
 
 ---
 
-> *"A melhor maneira de prever o futuro é criá-lo." – Alan Kay*
+## 🤝 Vamos conversar?
+
+Se quiser trocar uma ideia, dar feedback ou colaborar em algum projeto, fique à vontade para entrar em contato. Estou aberto(a) a novas conexões e oportunidades de aprendizado.
 
 
-<!--
-**F11-Nunes/F11-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
